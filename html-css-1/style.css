@@ -1,0 +1,14 @@
+*{
+    background-color: black;
+}
+.block{
+    background: white;
+    height: 700px;
+    margin-top: 200px;
+    margin-bottom: 60px;
+}
+h1{
+    background: grey;
+    height: 80px;
+    margin: 0;
+}
