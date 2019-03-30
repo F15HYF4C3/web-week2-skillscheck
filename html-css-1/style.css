@@ -1,14 +1,39 @@
-*{
-    background-color: black;
+* {
+    box-sizing: border-box;
+    background-color: white;
 }
-.block{
-    background: white;
-    height: 700px;
-    margin-top: 200px;
-    margin-bottom: 60px;
+body {
+    background-color: white;
 }
-h1{
+h2 {
     background: grey;
-    height: 80px;
-    margin: 0;
+    color: white;
+    height: 65px
+}
+section {
+background: white;
+
+}
+.block {
+    display: inline-block;
+    background: rgb(203, 247, 225);
+    width: 300px;
+    height: 35%;
+    margin: 10px;
+    border: 1px white solid;
+    padding: 20px;
+    font-size: 95px;
+    font-family:sans-serif;
+    color: darkgray;
+}
+
+h1 {
+    background: black;
+    color: white;
+    height: 200px;
+    text-align: left;
+    line-height: 12rem;
+    font-family: Calibri (light);
+    font-size: 60px
+    
 }
